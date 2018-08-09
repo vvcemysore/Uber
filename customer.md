@@ -1,7 +1,6 @@
-class customer
+class customer:Person
 {
 
-var name: String
 
 var trips:[Trips]
 }

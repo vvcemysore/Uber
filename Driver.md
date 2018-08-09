@@ -1,7 +1,7 @@
-class Driver
+class Driver:Person
 {
 
-var name:String
+
 
 var car:Car
 var hisFeedbacks:[Feedbacks]
